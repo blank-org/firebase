@@ -3,7 +3,7 @@
 Docker - maintainance module to manage Firebase project
 
 Firebase poject dir:  
-    `/project`
+    `/project/build`
 
 Login:
     firebase login --no-localhost
